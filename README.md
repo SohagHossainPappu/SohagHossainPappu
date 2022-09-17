@@ -2,27 +2,37 @@
 
 ### Hi there 👋, I am Sohag Hossain
 #### UX/UI and front-end developer🙆‍♂️
+----
 
 ### 📝About ME
-I am a front-end developer.I love to explore new ideas.I am a passionate developer who always wanted to give his 100%.Client satisfaction is my first priority.I am always trying to learning new things and keep updating my skills.🙋‍♂️🙋‍♂️
+I am a front-end developer.I love to explore new ideas.I am a passionate developer who always wanted to give his 100%.Client satisfaction is my first priority.I am always trying to learning new things and keep updating my skills.🙋‍♂️🙋‍♂️  
+
+----
 
 ### SKILLS :
-###### FLUTTER/DART/ REACT / JS / HTML / CSS/BOOTSTAP
+###### 
+- 📱FLUTTER,DART
+- ❄REACT,JS
+- 💻HTML,CSS,BOOTSTAP
+----
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about UX/UI and WebDevelopment 
 - 📫 How to reach me: sohagofficial124@gmail.com 
+----
 
 ![GitHub metrics](https://metrics.lecoq.io/SohagHossainPappu) 
+----
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SohagHossainPappu&show_icons=true)  
+----
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SohagHossainPappu)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohagHossainPappu)](https://github.com/anuraghazra/github-readme-stats)
+----
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SohagHossainPappu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohaghossain-pappu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/SohagPappuOfficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SohagPappu)
+----
 
 ![Profile views](https://gpvc.arturio.dev/SohagHossainPappu)  
