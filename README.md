@@ -4,7 +4,7 @@
 #### UX/UI and front-end developer🙆‍♂️
 
 ### 📝About ME
-I am a frontend developer.I love to explore new ideas.I am a passionate developer who always wanted to give his 100%.Client satisfaction is my first priority.I am always trying to learning new things and keep updating my skills.🙋‍♂️🙋‍♂️
+I am a front-end developer.I love to explore new ideas.I am a passionate developer who always wanted to give his 100%.Client satisfaction is my first priority.I am always trying to learning new things and keep updating my skills.🙋‍♂️🙋‍♂️
 
 ### SKILLS :
 ###### FLUTTER/DART/ REACT / JS / HTML / CSS/BOOTSTAP
